@@ -1,20 +1,17 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SkullSplitter2026/kullSplitter2026/main/header.png" width="100%" alt="Hardik Zinzuvadiya"/>
+  <img src="https://github.com/SkullSplitter2026/SkullSplitter2026/blob/main/header.png?raw=true" width="100%" alt="SkullSplitter"/>
 </div>
 
 <p align="center">
-  <a href="https://hardikzinzu.com" target="_blank">
+  <a href="https://skullsplitter2026.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=About.me&logoColor=7aa2f7"/>
   </a>&nbsp;
-  <a href="https://linkedin.com/in/hardikzinzu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://t.me/skulls_inc" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://discuss.frappe.io/u/hardik_zinzu" target="_blank">
-    <img src="https://img.shields.io/badge/Frappe_Forum-0A7EC2?style=for-the-badge&logoColor=white"/>
+  <a href="https://www.youtube.com/@sKullsInc2009" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-0A7EC2?style=for-the-badge&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://medium.com/@hardikzinzu" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -23,18 +20,18 @@
 
 ```python
 profile = {
-    "name"     : "Hardik Zinzuvadiya",
-    "role"     : "Full Stack Python Developer",
+    "name"     : "SkullSplitter",
+    "role"     : "Full Stack Developer",
     "exp"      : "5+ years",
-    "domain"   : "Python · Django · Vue.js · ERP · AI Integration",
-    "os_work"  : "hackingtool — 78k+ ⭐ — one of GitHub's most-starred Python repos",
+    "domain"   : "Python · Docker · Batch · Kodi · PHP · AI Integration",
+    "os_work"  : "sKulls Fusion Build based on Kodi Omega, sKulls Media Stack - QNAP NAS Docker ",
     "connect"  : "Open to interesting conversations → hardikzinzu.com",
 }
 ```
 
-Full stack Python developer with 5+ years shipping production software. I build backend systems, REST APIs, and web apps — and I integrate AI into products to automate workflows that used to require manual work. I have deep domain knowledge in ERP (ERPNext and Odoo), which means I've solved complex data-modelling, multi-tenant, and workflow-automation problems most Python developers never touch.
+Full stack developer with 5+ years shipping production software. I build backend systems, REST APIs, and web apps — and I integrate AI into products to automate workflows that used to require manual work. I have deep domain knowledge in ERP (ERPNext and Odoo), which means I've solved complex data-modelling, multi-tenant, and workflow-automation problems most Python developers never touch.
 
-Maintainer of **[hackingtool](https://github.com/Z4nzu/hackingtool)** — 78k+ stars, 8.8k forks.
+Maintainer of **[sKulls Fusion Build](https://github.com/SkullSplitter2026/Fusion.Repo)** and **[sKulls Media Stack - QNAP NAS Docker](https://github.com/SkullSplitter2026/sKulls.Media-Stack)**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -46,38 +43,26 @@ Maintainer of **[hackingtool](https://github.com/Z4nzu/hackingtool)** — 78k+ s
 **Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-**Backend**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=html&logoColor=black)
 
 **Databases**
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![KODi](https://img.shields.io/badge/Kodi-35495E?style=for-the-badge&logo=kodi&logoColor=white)
 
 **AI & Automation**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-D4A27F?style=for-the-badge&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logoColor=black)
-
-**Domain Knowledge**
-
-![ERPNext](https://img.shields.io/badge/ERPNext-14C38E?style=for-the-badge&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Pinokio](https://img.shields.io/badge/Pinokio-2496ED?style=for-the-badge&logoColor=black)
 
   </tr>
 </table>
@@ -92,7 +77,7 @@ Maintainer of **[hackingtool](https://github.com/Z4nzu/hackingtool)** — 78k+ s
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=SkullSplitter2026&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kullSplitter2026&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=6" height="145" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SkullSplitter2026&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=6" height="145" alt="Top Languages"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
