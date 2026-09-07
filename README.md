@@ -24,12 +24,10 @@ profile = {
     "role"     : "Full Stack Developer",
     "exp"      : "5+ years",
     "domain"   : "Python · Docker · Batch · Kodi · PHP · AI Integration",
-    "os_work"  : "sKulls Fusion Build based on Kodi Omega, sKulls Media Stack - QNAP NAS Docker ",
-    "connect"  : "Open to interesting conversations → hardikzinzu.com",
+    "work"     : "sKulls Fusion Build based on Kodi Omega, sKulls Media Stack - QNAP NAS Docker ",
+    "connect"  : "Open to interesting conversations → [hardikzinzu.com](https://skullsplitter2026.github.io)",
 }
 ```
-
-Full stack developer with 5+ years shipping production software. I build backend systems, REST APIs, and web apps — and I integrate AI into products to automate workflows that used to require manual work. I have deep domain knowledge in ERP (ERPNext and Odoo), which means I've solved complex data-modelling, multi-tenant, and workflow-automation problems most Python developers never touch.
 
 Maintainer of **[sKulls Fusion Build](https://github.com/SkullSplitter2026/Fusion.Repo)** and **[sKulls Media Stack - QNAP NAS Docker](https://github.com/SkullSplitter2026/sKulls.Media-Stack)**
 
