@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SkullSplitter2026/kullSplitter2026/main/header.svg" width="100%" alt="Hardik Zinzuvadiya"/>
+  <img src="https://raw.githubusercontent.com/SkullSplitter2026/kullSplitter2026/main/header.png" width="100%" alt="Hardik Zinzuvadiya"/>
 </div>
 
 <p align="center">
